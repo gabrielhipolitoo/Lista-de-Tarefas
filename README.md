@@ -37,10 +37,10 @@
   
   <div height='0' align="center">
     <p>Desenvolvido por Gabriel Hipólito</p> 
-      <a href='google.com.br'>
+      <a href='https://www.instagram.com/dev.gabrielhipolitoh/'>
         <img width='30' src="https://user-images.githubusercontent.com/82614854/154808367-54998179-3842-4413-a713-dcf0cbbeb51a.png"/>
      </a>
-     <a left="200" href=''>
+     <a left="200" href='https://www.linkedin.com/in/gabriel-hip%C3%B3lito-226821186/'>
         <img width='30' src="https://user-images.githubusercontent.com/82614854/154808606-58715ed6-6ec5-4841-8593-77f12e598970.png"/>
      </a>
   </div>
